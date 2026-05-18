@@ -1,5 +1,3 @@
----
-
 # Recent Breakthroughs in Protein Folding
 
 ## Executive Summary
